@@ -20,13 +20,14 @@
   {
     "name": "The Greatest Nuke That's Ever Lived",
     "unitType": "Missile",
+    "uniqueTo": "Spectator",
     "movement": 16,
     "strength": 6900,
     "rangedStrength": 9600,
     "range": 24,
     "uniques": [
       "Nuclear weapon of Strength [10]",
-      "Blast radius [10]"
+      "Blast radius [5]"
     ],
     "cost": 0,
     "attackSound": "nuke"
