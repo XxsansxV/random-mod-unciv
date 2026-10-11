@@ -24,8 +24,8 @@
     "strength": 6900,
     "rangedStrength": 9600,
     "range": 24,
-    "uniqueTo": [
-      "Nuclear weapon of Strength [5]",
+    "uniques": [
+      "Nuclear weapon of Strength [10]",
       "Blast radius [10]"
     ],
     "cost": 0,
