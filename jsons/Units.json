@@ -4,7 +4,31 @@
     "unitType": "Sword",
     "uniqueTo": "Spectator",
     "movement": 16,
-    "strength": 69696,
+    "strength": 300,
+    "uniques": [
+      "[+1000]% Yield from pillaging tiles",
+      "[+100]% Health from pillaging tiles",
+      "May Paradrop to [Land] tiles up to [10] tiles away",
+      "[6] additional attacks per turn",
+      "[5] Range",
+      "Can move after attacking",
+      "Can pass through impasssable tiles",
+      "May travel on Water tiles without embarking"
+    ],
     "cost": 0
+  },
+  {
+    "name": "The Greatest Nuke That's Ever Lived",
+    "unitType": "Missile",
+    "movement": 16,
+    "strength": 6900,
+    "rangedStrength": 9600,
+    "range": 24,
+    "uniqueTo": [
+      "Nuclear weapon of Strength [10]",
+      "Blast radius [10]"
+    ],
+    "cost": 0,
+    "attackSound": "nuke"
   }
 ]
