@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Skibidier",
+    "unitType": "Sword",
+    "uniqueTo": "Spectator",
+    "movement": 16,
+    "strength": 69696,
+    "cost": 0
+  }
+]
